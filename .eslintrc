@@ -7,7 +7,7 @@
     "ecmaFeatures": {
       "impliedStrict": true,
       "experimentalObjectRestSpread": true
-    },
+    },klm
     "allowImportExportEverywhere": true
   },
   "plugins": ["@typescript-eslint", "import"],
